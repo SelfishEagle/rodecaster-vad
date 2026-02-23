@@ -19,7 +19,7 @@ Windows-like virtual audio routing for the RØDECaster Pro 2 on Linux. Control y
 
 ## 📸 Screenshots
 
-![Control Panel](docs/screenshot.png)
+![Control Panel](https://r2.fivemanage.com/twlJi4g2rT1Wmmh5KJ1u9/Preview.png)
 *Full-featured GTK4 control panel*
 
 ## 🎯 What It Does
